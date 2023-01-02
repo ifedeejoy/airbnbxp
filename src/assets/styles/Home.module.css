@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10rem;
+}
+
+.headerText {
+    width: 347px;
+    height: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    /* identical to box height, or 40px */
+    color: #000000;
+}
+
+.bodyText {
+    width: 320px;
+    height: 56px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    margin-top: 2rem;
+}

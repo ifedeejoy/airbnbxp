@@ -1,0 +1,34 @@
+.bannerSection{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    padding: 3rem;
+}
+
+.tile1, .tile2, .tile3, .tile4, .tile5{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    margin: 5rem 0 3rem 0;
+    justify-content: space-between;
+}
+
+.tile1 img, .tile2 img, .tile3 img, .tile4 img, .tile5 img {
+    height: 200px;
+    width: 160px;
+}
+
+.tile1{
+    padding: 0;
+    justify-self: center;
+    align-self: center;
+}
+
+.tile2 img, .tile4 img{
+    margin: 20px;
+}
+
+.tile3 img, .tile5 img{
+    margin-top: 50px;
+}
