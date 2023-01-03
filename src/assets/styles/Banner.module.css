@@ -4,6 +4,7 @@
     justify-content: center;
     width: 80%;
     padding: 3rem;
+    position: relative;
 }
 
 .tile1, .tile2, .tile3, .tile4, .tile5{
